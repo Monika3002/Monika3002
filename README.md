@@ -1,13 +1,20 @@
-### Hi there 👋, My name is Monika 
-#### Web Developer
+## Hi there 👋, My name is Monika 
+## Web Developer
 ![Web Developer](https://github.com/Monika3002/Monika3002/blob/main/Screenshot%20(246).png)
 
+## About me
 I'm Monika from India ,and I do content on development. I really enjoy learning languages and framework like react and javascript.
 
-Skills: CPP / REACT / JS / HTML / CSS
+**SKILLS**
++ CPP
++ REACT
++ HTML
++ PYTHON 
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning git 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monika3002&layout=compact)](https://github.com/Monika3002/github-readme-stats)
+
+- 💻 I’m currently working on this page. 
+- 😎 I’m currently learning git 
 - 📫 How to reach me: monikabasene24@gmail.com 
 
 
