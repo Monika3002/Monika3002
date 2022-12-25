@@ -1,6 +1,6 @@
 ## Hi there 👋, My name is Monika 
 ## Web Developer
-![Web Developer](https://github.com/Monika3002/Monika3002/blob/main/601014116770475.6068beff4640a.gif)
+![](https://github.com/Monika3002/Monika3002/blob/main/601014116770475.6068beff4640a.gif)
 
 ## About me
 I'm Monika from India ,and I do content on development. I really enjoy learning languages and framework like react and javascript.
