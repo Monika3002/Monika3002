@@ -24,7 +24,7 @@ I'm Monika from India ,and I do content on development. I really enjoy learning 
 ![My min-web](https://super-octo-train.vercel.app/)
 
 # CONTRIBUTION
-![alt text](https://github.com/Monika3002/Monika3002/blob/main/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
+![alt text](192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Monika3002&show_icons=true)  
