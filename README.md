@@ -1,6 +1,7 @@
 ## Hi there 👋, My name is Monika 
 ## Web Developer
-![image](https://github.com/Monika3002/Monika3002/blob/main/601014116770475.6068beff4640a.gif)
+
+![](https://github.com/Monika3002/Monika3002/blob/main/gif2.gif)
 
 
 ## About me
