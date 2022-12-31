@@ -9,7 +9,6 @@ I'm Monika from India ,and I do content on development. I really enjoy learning 
 
 **SKILLS**
 + CPP
-+ REACT
 + HTML
 + CSS
 + PYTHON 
