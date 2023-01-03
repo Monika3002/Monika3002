@@ -11,6 +11,7 @@ I'm Monika from India ,and I do content on development. I really enjoy learning 
 + CPP
 + HTML
 + CSS
++ JAVASCRIPT
 + PYTHON 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monika3002&layout=compact)](https://github.com/Monika3002/github-readme-stats)
