@@ -14,8 +14,7 @@ I'm Monika from India ,and I do content on development. I really enjoy learning 
 + JAVASCRIPT
 + PYTHON 
 
-[![p Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monika3002&layout=compact)](https://github.com/Monika3002/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monika3002)
 - 💻 I’m currently working on this page. 
 - 😎 I’m currently learning git 
 - 📫 How to reach me: monikabasene24@gmail.com 
@@ -31,6 +30,6 @@ I'm Monika from India ,and I do content on development. I really enjoy learning 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Monika3002&show_icons=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Monika3002)  
+
 
