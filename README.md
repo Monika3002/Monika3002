@@ -5,7 +5,7 @@
 
 
 ## About me
-I'm Monika from India ,and I do content on development. I really enjoy learning languages and framework like react and javascript.
+I'm Monika from India and I do content on development. I really enjoy learning languages and framework like react and javascript.
 
 **SKILLS**
 + CPP
