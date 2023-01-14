@@ -4,7 +4,7 @@
 ![](https://github.com/Monika3002/Monika3002/blob/main/gif2.gif)
 
 
-## About me
+## 
 I'm Monika from India and I do content on development. I really enjoy learning languages and framework like react and javascript.
 
 **SKILLS**
