@@ -1,5 +1,5 @@
 ## Hii there 👋, My name is Monika 
-## Web Developer
+
 
 ![](https://github.com/Monika3002/Monika3002/blob/main/gif2.gif)
 
@@ -12,8 +12,10 @@ I'm Monika from India and I do content on development. I really enjoy learning l
 + CPP
 + HTML
 + CSS
-+ JAVASCRIPT
-+ PYTHON 
++ PYTHON
++ Arduino
++ Git
+  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monika3002)
 - 💻 I’m currently working on this page. 
