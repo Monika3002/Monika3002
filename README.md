@@ -1,4 +1,7 @@
-## Hii there 👋, My name is Monika 
+<!--👋-->
+<h1 align="center">Hey Everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height=40 width=40> 
+  <br> I'm Monika Basene !!</h1>
+<h3 align="center">I'm an Undergraduate Computer Engineering Student</h3> 
 
 
 ![](https://github.com/Monika3002/Monika3002/blob/main/gif2.gif)
