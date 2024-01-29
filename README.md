@@ -44,7 +44,7 @@ src="https://purpletutor.com/wp-content/uploads/2020/12/purple-tutor11.svg">
     <img src="https://github.com/Monika3002/Monika3002/blob/main/icon/tinker%20cad.jpg" alt="tinkercad" width="40" height="40"/>
   </a>
   <a href="https://nodered.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Monika3002/Monika3002/blob/main/icon/nodered.png" alt="node-red" width="4" height="40"/>
+    <img src="https://github.com/Monika3002/Monika3002/blob/main/icon/nodered.png" alt="node-red" width="40" height="40"/>
   </a>
   <a href="https://mosquitto.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/Monika3002/Monika3002/blob/main/icon/mosquitto.png" alt="mosquitto" width="60" height="40"/>
