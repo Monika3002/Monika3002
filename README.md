@@ -1,6 +1,6 @@
 <!--👋-->
 <h1 align="center">Hey Everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height=40 width=40> 
-  <br> I'm Monika Basene !!</h1>
+  <br> I'm Monika Basene!!</h1>
 <h3 align="center">I'm an Undergraduate Computer Engineering Student</h3>
 <img align="right" alt="CODING" width="380" height="500"
 src="https://purpletutor.com/wp-content/uploads/2020/12/purple-tutor11.svg">
