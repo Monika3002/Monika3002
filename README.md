@@ -22,8 +22,6 @@ src="https://purpletutor.com/wp-content/uploads/2020/12/purple-tutor11.svg">
 
 - 📫 How to reach me **monikabasene24@gmail.com**
 
-<h3 align="left">Profile Views:</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coding-enthusiast9857&label=Profile%20views&color=0e75b6&style=flat" alt="coding-enthusiast9857" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
