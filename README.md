@@ -1,5 +1,5 @@
 <!--👋-->
-<h1 align="center">Hey Everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height=40 width=40> 
+<h1 align="center">Hello Everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height=40 width=40> 
   <br> I'm Monika Basene!!</h1>
 <h3 align="center">I'm an Undergraduate Computer Engineering Student</h3>
 <img align="right" alt="CODING" width="380" height="500"
