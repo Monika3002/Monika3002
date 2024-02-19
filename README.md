@@ -20,7 +20,7 @@ src="https://purpletutor.com/wp-content/uploads/2020/12/purple-tutor11.svg">
 
 - 👨‍💻 All of my projects are available at [Monika3002]((https://github.com/Monika3002))
 
-- 📫 How to reach me **monikabasene24@gmail.com**
+- 📫 How to reach me ***monikabasene24@gmail.com***
 
 
 <h3 align="left">Connect with me:</h3>
