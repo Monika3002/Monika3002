@@ -10,7 +10,7 @@ src="https://purpletutor.com/wp-content/uploads/2020/12/purple-tutor11.svg">
 
 - 👩🏻 I am **self-taught programmer** and **passionate learner** who always eager to learn new skills.
 
-- 👨‍💻 You can also connect with me using https://github.com/Monika3002
+- 👨‍💻 You can also connect with me using the https://github.com/Monika3002
 
 - 💻 I'm interested in **Fronted web development, Internet of Things(IoT), Software development, etc**
 
